@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1a7c7745ffa86db58df7b722c4ab5d83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/280c30ae791a0653391f01936fd86c88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/eefe78e4d4a25dac045c4cb4a60a74e1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /root/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/1c2d21a0047caa1a76b63049a2454c7a/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/50b8a62edf0ab53c321488a59d9ff8bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/bb501a3e29a33792b37c53f8483fcce2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/59655bb919df5a392094fc527a87b854/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0963fbee4b92f57710c8f0d6803406a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5b88d7493580e824fcbf2b1923a958c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/30f239e85e5848135c6a8affcc693846/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9c595bd52e90ff452dcf3699ad97f316/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b93da483fdd163f2573189c6c7e4554e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3380247dd4167720918aacefdb23e420/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/56863b872d40be3949e692cff5bde4f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ec3bbf09e7b5afd1312422ed192699f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e1dea4cfc4d38215eaf1bb0fdfb4ffa6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c53396de036bb72b474e15d5969bd069/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/24a94a4616c56e41e0a55ffd7e074657/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7eaa3d10c7dd1a541849a64c725d964c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/eefe78e4d4a25dac045c4cb4a60a74e1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/eefe78e4d4a25dac045c4cb4a60a74e1/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:11:9-52
+activity#com.intelsvn.taskmanagement.view.activity.LoginActivity
+ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:12:19-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.intelsvn.taskmanagement.view.activity.MainActivity
+ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:21:13-44
+	android:theme
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:20:13-55
+activity#com.intelsvn.taskmanagement.view.activity.ResetPassword
+ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:23:9-25:59
+	android:theme
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:24:13-56
+activity#com.intelsvn.taskmanagement.view.activity.FilterActivity
+ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:26:9-75
+	android:name
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml:26:19-63
+uses-sdk
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1a7c7745ffa86db58df7b722c4ab5d83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1a7c7745ffa86db58df7b722c4ab5d83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/280c30ae791a0653391f01936fd86c88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/280c30ae791a0653391f01936fd86c88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/eefe78e4d4a25dac045c4cb4a60a74e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/eefe78e4d4a25dac045c4cb4a60a74e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /root/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/1c2d21a0047caa1a76b63049a2454c7a/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /root/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/1c2d21a0047caa1a76b63049a2454c7a/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/50b8a62edf0ab53c321488a59d9ff8bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/50b8a62edf0ab53c321488a59d9ff8bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/bb501a3e29a33792b37c53f8483fcce2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/bb501a3e29a33792b37c53f8483fcce2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/59655bb919df5a392094fc527a87b854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/59655bb919df5a392094fc527a87b854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0963fbee4b92f57710c8f0d6803406a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0963fbee4b92f57710c8f0d6803406a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5b88d7493580e824fcbf2b1923a958c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5b88d7493580e824fcbf2b1923a958c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/30f239e85e5848135c6a8affcc693846/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/30f239e85e5848135c6a8affcc693846/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9c595bd52e90ff452dcf3699ad97f316/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9c595bd52e90ff452dcf3699ad97f316/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b93da483fdd163f2573189c6c7e4554e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b93da483fdd163f2573189c6c7e4554e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3380247dd4167720918aacefdb23e420/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3380247dd4167720918aacefdb23e420/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/56863b872d40be3949e692cff5bde4f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/56863b872d40be3949e692cff5bde4f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ec3bbf09e7b5afd1312422ed192699f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5ec3bbf09e7b5afd1312422ed192699f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e1dea4cfc4d38215eaf1bb0fdfb4ffa6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e1dea4cfc4d38215eaf1bb0fdfb4ffa6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c53396de036bb72b474e15d5969bd069/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c53396de036bb72b474e15d5969bd069/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/24a94a4616c56e41e0a55ffd7e074657/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/24a94a4616c56e41e0a55ffd7e074657/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7eaa3d10c7dd1a541849a64c725d964c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7eaa3d10c7dd1a541849a64c725d964c/AndroidManifest.xml:20:5-44
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+		ADDED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chinhbui/Jobs/ITS/TaskManagement/app/src/main/AndroidManifest.xml
